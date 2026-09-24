@@ -13,5 +13,12 @@ A modern, clean, and fully functional Simple Calculator built using standard web
 * Clear (C) and Backspace functionality.
 * Clean, intuitive, and UI design.
 
+-------
+<p align="center">
+  <img src="https://hits.sh/github.com/zainab-naeem-20/Simple-Calculator.svg?label=Views&color=ff69b4&logo=github" alt="Views"/>
+</p>
+
+------
+
 ## 🚀 How to Run
 Simply open `index.html` in any web browser to use the calculator.
